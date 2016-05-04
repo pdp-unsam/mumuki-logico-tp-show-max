@@ -5,6 +5,7 @@ Como él es un excelente vendedor, investigó sobre los hobbies de algunas perso
 ¿Te animás a ayudarlo brindándole un programa en _Prolog_? ¡Dale!
 
 > **Importante**
+
 > - No se debe **repetir lógica**.
 
 > - Crear las abstracciones que crea necesarias para **dividir los requerimientos en problemas chicos**.
