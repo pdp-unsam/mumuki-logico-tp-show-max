@@ -21,7 +21,6 @@ hincha(ana, sanLorenzo).
 rivales(boca, river).
 rivales(sanLorenzo, huracan).
 
-
 % 3)
 toca(zonaGanjah, lunaPark).
 toca(elBordo, lunaPark).
@@ -33,3 +32,13 @@ partido(futbol, racing, newells, cilindro).
 partido(futbol, river, boca, monumental).
 
 % 4)
+vende(topshow, lunaPark, 8).
+vende(ticketek, bombonera, 10).
+vende(ticketek, fortin, 10).
+vende(bombonera, bombonera, 0).
+vende(monumental, monumental, 0).
+
+capacidad(lunaPark, 10000).
+capacidad(bombonera, 50000).
+capacidad(fortin, 49000).
+capacidad(monumental, 65000).
