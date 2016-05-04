@@ -9,7 +9,7 @@ vende(bombonera, bombonera, 0).
 ...
 ```
 
-Además contamos con las capacidades de personas que posee cada lugar:
+Además contamos con las capacidades que posee cada lugar:
 
 ```Prolog
 % capacidad(Lugar, Capacidad).
