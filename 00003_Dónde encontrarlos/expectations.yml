@@ -2,3 +2,5 @@
 expectations:
 - binding: asiste
   inspection: HasBinding
+- binding: fanatico
+  inspection: HasBinding
