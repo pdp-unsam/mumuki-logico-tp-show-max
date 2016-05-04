@@ -11,12 +11,14 @@ juega(nico, basquet).
 juega(tato, futbol).
 juega(tato, hearthstone).
 juega(ana, golf).
+juega(fabi, golf).
 
 % 2)
 hincha(fer, boca).
 hincha(nico, river).
 hincha(tato, newells).
 hincha(ana, sanLorenzo).
+hincha(fabi, huracan).
 
 rivales(boca, river).
 rivales(sanLorenzo, huracan).
