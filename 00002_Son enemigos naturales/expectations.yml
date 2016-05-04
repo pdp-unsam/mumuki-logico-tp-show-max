@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: enemigos
+  inspection: HasBinding
