@@ -24,6 +24,6 @@ Nos piden averiguar qué persona compra entrada, a quién y a qué precio, por m
 
 - Cada lugar tiene un precio base que se calcula como la `capacidad / 100`.
 
-- A ese precio base se le suma el porcentaje de comisión (sobre el mismo precio base) del vendedor para ese lugar, dejando así el precio final de la entrada.
+- A ese precio base se le suma el porcentaje de comisión (sobre el mismo precio base) del vendedor para ese lugar, obteniendo así el precio final de la entrada.
 
 - Las personas van a comprar cualquier vendedor que venda entradas para cualquier lugar que asistan. **Excepto** _fer_, quien no compra entradas en _ticketek_ ni para aquellos lugares cuya capacidad superen las 50000 personas.
