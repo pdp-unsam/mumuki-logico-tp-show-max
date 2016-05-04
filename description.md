@@ -6,5 +6,7 @@ Como él es un excelente vendedor, investigó sobre los hobbies de algunas perso
 
 > **Importante**
 > - No se debe **repetir lógica**.
+
 > - Crear las abstracciones que crea necesarias para **dividir los requerimientos en problemas chicos**.
+
 > - Todos los predicados que se pidan deberán ser **completamente inversibles**.
